@@ -21,3 +21,5 @@ PCE17CS028    Anushka Tiwari  https://github.com/AnushkaTiwari/My-ML-Workshop
 PCE17CS030    Arya Sinha       https://github.com/arya-07/My-ML-Workshop
 
 PCE17CS001     Aakansha kowerjani  https://github.com/Aakanshakowerjani/mlaiworkshop
+
+PCE17CS069    Hemant Sharma     https://github.com/hemantsharma10/My-ML-Workshop
