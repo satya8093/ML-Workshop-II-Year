@@ -26,6 +26,8 @@ PCE17CS030    Arya Sinha       https://github.com/arya-07/My-ML-Workshop
 
 PCE17CS001     Aakansha kowerjani  https://github.com/Aakanshakowerjani/mlaiworkshop
 
+Pce17cs120    Prayas Shrivastava    https://github.com/prayasshrivastava/Machine-learning
+
 PCE17CS119     Praveen Kumar Dakua   https://github.com/dakuapraveen/ML-workshop
 
 PCE17CS027    Anubhav Srivastava https://github.com/anubhavsrivastava10/my-machine-learning-
