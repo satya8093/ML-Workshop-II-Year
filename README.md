@@ -14,6 +14,8 @@ pce17cs143    sanket agarwal   https://github.com/sanket170100/MY-ML-WOKSHOP
 
 PCE17CS160    Tanuj Sharma    https://github.com/tanujsharma1412/Ml-Workshop
 
+PCE17CS084    KARTIK PANDEY   https://github.com/kartikkp04/mlworkshop
+
 PCE17CS161    Tarun Sharma    https://github.com/tarunsharma1999/Machine-learning
 
 PCE17CS026    Ankush Pokharna    https://github.com/ankushp11/mymlworkshop
